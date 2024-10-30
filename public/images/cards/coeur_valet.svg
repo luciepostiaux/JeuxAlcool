@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187.16 286.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbfbfb;
+        stroke: #12100b;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        font-size: 72px;
+        letter-spacing: -.04em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #e42320;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: LibreBaskerville-Regular, 'Libre Baskerville';
+      }
+
+      .cls-4 {
+        fill: #e20613;
+        font-size: 24px;
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="coeur-valet">
+    <g>
+      <g>
+        <path class="cls-1" d="M171.41.75H15.75C7.47.75.75,7.47.75,15.75v254.83c0,8.28,6.72,15,15,15h155.66c8.28,0,15-6.72,15-15V15.75c0-8.28-6.72-15-15-15Z"/>
+        <g>
+          <path class="cls-3" d="M15.9,56.78c-.89-1.58-6.12-6.31-7.19-8.13-.48-.67-.77-1.49-.77-2.38,0-2.24,1.82-4.06,4.06-4.06,1.82,0,3.36,1.2,3.88,2.85.52-1.65,2.06-2.85,3.88-2.85,2.24,0,4.06,1.82,4.06,4.06,0,.73-.2,1.41-.53,2.01-.82,2.08-6.11,6.02-7.39,8.51Z"/>
+          <text class="cls-4" transform="translate(8.2 34.51)"><tspan x="0" y="0">V</tspan></text>
+          <path class="cls-3" d="M171.27,229.22c.89,1.58,6.12,6.31,7.19,8.13.48.67.77,1.49.77,2.38,0,2.24-1.82,4.06-4.06,4.06-1.82,0-3.36-1.2-3.88-2.85-.52,1.65-2.06,2.85-3.88,2.85-2.24,0-4.06-1.82-4.06-4.06,0-.73.2-1.41.53-2.01.82-2.08,6.11-6.02,7.39-8.51Z"/>
+          <text class="cls-4" transform="translate(178.96 251.49) rotate(-180)"><tspan x="0" y="0">V</tspan></text>
+        </g>
+      </g>
+      <text class="cls-2" transform="translate(65.54 165.67)"><tspan x="0" y="0">V</tspan></text>
+    </g>
+  </g>
+</svg>

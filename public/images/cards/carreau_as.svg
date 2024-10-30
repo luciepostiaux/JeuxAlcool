@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187.16 286.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbfbfb;
+        stroke: #12100b;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: #e20613;
+        font-family: LibreBaskerville-Regular, 'Libre Baskerville';
+        font-size: 24px;
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        fill: #e42320;
+      }
+    </style>
+  </defs>
+  <g id="carreau-as">
+    <g>
+      <path class="cls-1" d="M171.41.75H15.75C7.47.75.75,7.47.75,15.75v254.83c0,8.28,6.72,15,15,15h155.66c8.28,0,15-6.72,15-15V15.75c0-8.28-6.72-15-15-15Z"/>
+      <g>
+        <path class="cls-3" d="M127.02,143.33c-12.67,7.96-23.6,18.38-32.15,32.15-7.81-12.58-18.18-23.53-32.15-32.15,13.44-7.63,24.02-18.5,32.15-32.15,7.29,12.98,18.1,23.64,32.15,32.15Z"/>
+        <g>
+          <text class="cls-2" transform="translate(7.85 34.68)"><tspan x="0" y="0">A</tspan></text>
+          <path class="cls-3" d="M26.96,48.4c-3.85,2.42-7.16,5.58-9.76,9.76-2.37-3.82-5.52-7.14-9.76-9.76,4.08-2.32,7.29-5.62,9.76-9.76,2.21,3.94,5.49,7.18,9.76,9.76Z"/>
+        </g>
+        <g>
+          <text class="cls-2" transform="translate(179.31 251.65) rotate(-180)"><tspan x="0" y="0">A</tspan></text>
+          <path class="cls-3" d="M160.2,237.93c3.85-2.42,7.16-5.58,9.76-9.76,2.37,3.82,5.52,7.14,9.76,9.76-4.08,2.32-7.29,5.62-9.76,9.76-2.21-3.94-5.49-7.18-9.76-9.76Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
